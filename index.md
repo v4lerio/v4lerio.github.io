@@ -8,7 +8,7 @@
 - *Guess what?* Coming soon!
 
 ### Micro Projects
-- [HelpGovIT](https://v4lerio.github.io/infosecnews-help-gov-it) | [Code available here](https://github.com/v4lerio/infosecnews-help-gov-it)
+- [HelpGovIT](https://v4lerio.github.io/infosecnews-help-gov-it) ([Code and data available here](https://github.com/v4lerio/infosecnews-help-gov-it))
 
 ### Contributions
 - [infosec.news](https://infosec.news)
