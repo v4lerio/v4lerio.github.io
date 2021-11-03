@@ -1,11 +1,11 @@
 # Hello World!
 
 ### Projects
-- Cyber Buddy (Coming Soon)
+- [Cyber Stuff](https://cyberstuff.xyz)
 - IoT (Coming soon)
 
 ### Blog
-- *Guess what?* Coming soon!
+- Please see Logs section on [Cyber Stuff](https://cyberstuff.xyz)
 
 ### Micro Projects
 - [HelpGovIT](https://v4lerio.github.io/infosecnews-help-gov-it) ([Code and data available here](https://github.com/v4lerio/infosecnews-help-gov-it))
